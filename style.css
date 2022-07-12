@@ -14,7 +14,7 @@ img {
     size: 20px;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
